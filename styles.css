@@ -96,3 +96,24 @@ section h3{
 section p{
     text-align: center;
 }
+/* footer */
+.footer{
+    background-color: var(--primery-color);
+    padding: 5px;    
+}
+.foot-div{
+    text-align: center;
+    color: white;
+
+}
+.footer-unorder{
+    text-align: center;
+    padding: 2rem;
+}
+
+.footer .link{
+    
+    display: inline;
+    color: white;
+    
+}
